@@ -4,6 +4,12 @@
 /* You can also add other styles below to override the default theme values */
 @import url("https://fonts.googleapis.com/css?family=M+PLUS+1p");
 :root {
+  /* setting japanese font */
   --ct-text-size: 18px;
-  --ls-font-family: "M PLUS 1p",
+  --ls-font-family: "M PLUS 1p";
+
+  /* setting about display */
+  --display-recent-pages: none;
+  --display-arrow-navigation: none;
+  --display-help-button: none;
 }
