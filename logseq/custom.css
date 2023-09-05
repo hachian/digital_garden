@@ -7,8 +7,9 @@
   /* setting japanese font */
   --ct-text-size: 18px;
   --ls-font-family: "M PLUS 1p";
+  transform: rotate(0.03deg);
 
-  /* setting about display */
+  /* setting about display NOT WORKING! */
   --display-recent-pages: none;
   --display-arrow-navigation: none;
   --display-help-button: none;
