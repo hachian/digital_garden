@@ -16,7 +16,7 @@
 
 /* Fix line drawing */
 .ls-block[haschild] > div > .block-content-wrapper::before {
-      left: -500px;
+      left: -1024px;
 }
 
 /* Bold */
