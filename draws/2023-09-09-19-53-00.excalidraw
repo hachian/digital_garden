@@ -1,0 +1,710 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "type": "arrow",
+      "version": 91,
+      "versionNonce": 1840061803,
+      "isDeleted": false,
+      "id": "6mLq3vLNH_b0Arzk4lqHC",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 120.99999999999997,
+      "y": 318.53125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 341,
+      "height": 0,
+      "seed": 307945163,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1694256826508,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          341,
+          0
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 46,
+      "versionNonce": 1699611333,
+      "isDeleted": false,
+      "id": "gycdVFWD7ibFN4CweziPs",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 290,
+      "y": 376.53125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 5.684341886080802e-14,
+      "height": 279,
+      "seed": 1420378853,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1694256826508,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          5.684341886080802e-14,
+          -279
+        ]
+      ]
+    },
+    {
+      "type": "freedraw",
+      "version": 129,
+      "versionNonce": 276150821,
+      "isDeleted": false,
+      "id": "vSmrCaBdZjInyABm1mI1w",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 208,
+      "y": 106.53125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 254,
+      "height": 185,
+      "seed": 812343845,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1694256830048,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          7,
+          17
+        ],
+        [
+          9,
+          23
+        ],
+        [
+          11,
+          31
+        ],
+        [
+          12,
+          38
+        ],
+        [
+          14,
+          45
+        ],
+        [
+          16,
+          52
+        ],
+        [
+          19,
+          59
+        ],
+        [
+          21,
+          66
+        ],
+        [
+          24,
+          72
+        ],
+        [
+          27,
+          79
+        ],
+        [
+          31,
+          85
+        ],
+        [
+          34,
+          92
+        ],
+        [
+          38,
+          97
+        ],
+        [
+          42,
+          102
+        ],
+        [
+          46,
+          108
+        ],
+        [
+          50,
+          114
+        ],
+        [
+          55,
+          120
+        ],
+        [
+          59,
+          126
+        ],
+        [
+          63,
+          131
+        ],
+        [
+          67,
+          135
+        ],
+        [
+          70,
+          139
+        ],
+        [
+          72,
+          142
+        ],
+        [
+          75,
+          145
+        ],
+        [
+          78,
+          148
+        ],
+        [
+          81,
+          151
+        ],
+        [
+          83,
+          154
+        ],
+        [
+          86,
+          157
+        ],
+        [
+          88,
+          159
+        ],
+        [
+          89,
+          160
+        ],
+        [
+          91,
+          162
+        ],
+        [
+          93,
+          163
+        ],
+        [
+          95,
+          165
+        ],
+        [
+          97,
+          167
+        ],
+        [
+          98,
+          168
+        ],
+        [
+          100,
+          169
+        ],
+        [
+          101,
+          170
+        ],
+        [
+          103,
+          172
+        ],
+        [
+          105,
+          173
+        ],
+        [
+          107,
+          175
+        ],
+        [
+          110,
+          176
+        ],
+        [
+          112,
+          178
+        ],
+        [
+          114,
+          179
+        ],
+        [
+          116,
+          180
+        ],
+        [
+          118,
+          181
+        ],
+        [
+          121,
+          182
+        ],
+        [
+          124,
+          183
+        ],
+        [
+          126,
+          183
+        ],
+        [
+          129,
+          184
+        ],
+        [
+          132,
+          185
+        ],
+        [
+          135,
+          185
+        ],
+        [
+          139,
+          185
+        ],
+        [
+          142,
+          185
+        ],
+        [
+          146,
+          184
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          155,
+          182
+        ],
+        [
+          158,
+          181
+        ],
+        [
+          161,
+          179
+        ],
+        [
+          164,
+          178
+        ],
+        [
+          168,
+          176
+        ],
+        [
+          172,
+          173
+        ],
+        [
+          177,
+          170
+        ],
+        [
+          180,
+          168
+        ],
+        [
+          184,
+          165
+        ],
+        [
+          187,
+          162
+        ],
+        [
+          190,
+          159
+        ],
+        [
+          194,
+          155
+        ],
+        [
+          196,
+          153
+        ],
+        [
+          199,
+          149
+        ],
+        [
+          202,
+          146
+        ],
+        [
+          205,
+          141
+        ],
+        [
+          207,
+          138
+        ],
+        [
+          210,
+          133
+        ],
+        [
+          212,
+          129
+        ],
+        [
+          214,
+          124
+        ],
+        [
+          216,
+          120
+        ],
+        [
+          218,
+          115
+        ],
+        [
+          220,
+          110
+        ],
+        [
+          221,
+          106
+        ],
+        [
+          223,
+          102
+        ],
+        [
+          224,
+          98
+        ],
+        [
+          226,
+          94
+        ],
+        [
+          227,
+          91
+        ],
+        [
+          229,
+          87
+        ],
+        [
+          231,
+          83
+        ],
+        [
+          233,
+          80
+        ],
+        [
+          234,
+          76
+        ],
+        [
+          235,
+          73
+        ],
+        [
+          237,
+          70
+        ],
+        [
+          238,
+          67
+        ],
+        [
+          239,
+          65
+        ],
+        [
+          240,
+          63
+        ],
+        [
+          240,
+          60
+        ],
+        [
+          241,
+          59
+        ],
+        [
+          243,
+          55
+        ],
+        [
+          244,
+          52
+        ],
+        [
+          245,
+          48
+        ],
+        [
+          246,
+          45
+        ],
+        [
+          246,
+          42
+        ],
+        [
+          247,
+          40
+        ],
+        [
+          247,
+          37
+        ],
+        [
+          248,
+          35
+        ],
+        [
+          249,
+          33
+        ],
+        [
+          249,
+          31
+        ],
+        [
+          250,
+          28
+        ],
+        [
+          250,
+          26
+        ],
+        [
+          251,
+          23
+        ],
+        [
+          252,
+          21
+        ],
+        [
+          253,
+          18
+        ],
+        [
+          253,
+          15
+        ],
+        [
+          253,
+          14
+        ],
+        [
+          253,
+          13
+        ],
+        [
+          254,
+          12
+        ],
+        [
+          254,
+          11
+        ],
+        [
+          254,
+          10
+        ],
+        [
+          254,
+          9
+        ],
+        [
+          254,
+          8
+        ],
+        [
+          254,
+          7
+        ],
+        [
+          254,
+          6
+        ],
+        [
+          254,
+          5
+        ],
+        [
+          254,
+          4
+        ],
+        [
+          254,
+          3
+        ],
+        [
+          253,
+          3
+        ],
+        [
+          253,
+          2
+        ],
+        [
+          253,
+          2
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "text",
+      "version": 3,
+      "versionNonce": 637613523,
+      "isDeleted": false,
+      "id": "CAU7rY-2CjCOZyu4nYapq",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 478,
+      "y": 316.53125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 10.159988403320312,
+      "height": 25,
+      "seed": 645277355,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1694617633058,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "b",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "b",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 3,
+      "versionNonce": 506725597,
+      "isDeleted": false,
+      "id": "RDYxeOcB4mKFVhYLa1Zby",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 314,
+      "y": 95.53125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 11.979995727539062,
+      "height": 25,
+      "seed": 1173494091,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1694617633059,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "L",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "L",
+      "lineHeight": 1.25,
+      "baseline": 18
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}
