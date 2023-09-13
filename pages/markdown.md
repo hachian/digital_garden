@@ -1,3 +1,7 @@
+- [Markdownライティング入門](https://amzn.to/44NvqOx)より引用
+	- > Markdownはプレーンテキストで文章を書くための記法
+- Markdownの記法を試す
+	- [[logseq]]特有の記法もある
 - 見出し
 	- # h1h1h1
 	- ## h2h2h2
