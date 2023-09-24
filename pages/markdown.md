@@ -52,7 +52,7 @@
 		- [[2023/09/05]]などのリンクを生成
 		- `/Today`, `/Yesterday`, `/Tomorrow`
 	- TODO系
-		- TODO : `/TODO`
+		- `TODO` : `/TODO`
 		  :LOGBOOK:
 		  CLOCK: [2023-09-06 Wed 22:46:08]--[2023-09-06 Wed 22:46:09] =>  00:00:01
 		  :END:

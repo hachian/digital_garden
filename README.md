@@ -2,7 +2,7 @@
 
 my public digital garden built with logseq
 
-- [link to current site](https://hachian.github.io/digital_garden/) (TODO: set custom domain)
+- [link to current site](https://dig.hachian.com/)
 - [logseq](https://github.com/logseq/logseq)
 - [publish-spa](https://github.com/logseq/publish-spa)
 - themes
