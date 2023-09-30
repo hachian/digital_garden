@@ -1,0 +1,9 @@
+- JupyterNotebookのようなノリで[[ブログ]]サイトやスライドが作れる
+	- R言語にはR Markdownというのがあり、それの拡張のようなものらしい
+	- Pythonにも対応
+- 環境構築のブログ記事
+	- https://blog.hachian.com/posts/2023/09/21/quarto-vscode-conda/
+- JupyterNotebookで動くものは動く様子
+	- matplotlibによるグラフ化
+	- plotlyによるインタラクティブなグラフもできる
+- プレゼンテーション機能はrevealjsの上に成り立っている
