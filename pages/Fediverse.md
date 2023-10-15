@@ -43,5 +43,5 @@
 		- 設定→サービスをカスタムに
 		- ![image.png](../assets/image_1695653773009_0.png)
 	- ローカル配信してみたが、遅延13秒程度
-		- ![image.png](../assets/image_1696254177649_0.png)
+		- ![image.png](../assets/image_1696254177649_0.png){:height 242, :width 717}
 -
