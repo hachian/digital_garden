@@ -23,6 +23,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -51,6 +52,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -79,6 +81,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -107,6 +110,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -135,6 +139,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -163,6 +168,7 @@
       "height": 27,
       "seed": 722574285,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -191,6 +197,7 @@
       "height": 275,
       "seed": 272269571,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -234,6 +241,7 @@
       "height": 0,
       "seed": 1756070275,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -277,6 +285,7 @@
       "height": 0,
       "seed": 1875688784,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -320,6 +329,7 @@
       "height": 17.65089154646651,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -363,6 +373,7 @@
       "height": 55.306755279598974,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -406,6 +417,7 @@
       "height": 30.7480608649698,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -449,6 +461,7 @@
       "height": 26.543548057360738,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -492,6 +505,7 @@
       "height": 37.558112885889244,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -535,6 +549,7 @@
       "height": 44.83818812425767,
       "seed": 862082384,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -578,6 +593,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633001,
@@ -613,6 +629,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633002,
@@ -648,6 +665,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633003,
@@ -683,6 +701,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633003,
@@ -718,6 +737,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633004,
@@ -753,6 +773,7 @@
       "height": 25,
       "seed": 2057172400,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1694617633005,
@@ -772,5 +793,6 @@
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#FFF"
-  }
+  },
+  "files": {}
 }
