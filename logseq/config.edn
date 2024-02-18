@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["タグ整理"]
+ :favorites ["ブログ記事ストック" "タグ整理"]
 
  ;; Set flashcards interval.
  ;; Expected value:
